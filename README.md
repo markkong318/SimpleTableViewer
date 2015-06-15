@@ -52,7 +52,6 @@ apprise-v2
 4. access url by model_editor.php?model_name={モデル}
 
 ex.
-
 model_editor.php?model_name=LoginBonusSheet
 
 ## Demo

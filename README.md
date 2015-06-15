@@ -14,6 +14,7 @@ It is written in my private time and use in our framework
 1. Re-write the model code
 
 2. Create the js config, and save it as the model name
+
 ex. model is LoginBonusSheet, js config file should be LoginBonusSheet.js
 
 ```
@@ -49,6 +50,9 @@ jquery.simplePagination
 apprise-v2
 
 4. access url by model_editor.php?model_name={モデル}
+
+ex.
+
 model_editor.php?model_name=LoginBonusSheet
 
 ## Demo

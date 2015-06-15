@@ -2,9 +2,9 @@
 
 This is a database viewer writtern by Backbone. All the table config is controlled by JSON js file
 
-All we know phpMyAdmin is a good tool for viewing table. But it show too many detail people for regular people. phpMyAdmin also could not refer some columns from other table and showing the meaning of the column value.
+All we know phpMyAdmin is a good tool for viewing table. But it shows too many details for regular people. phpMyAdmin also could not refer some columns from other table and showing the meaning of the column value.
 
-For game director, he want to set a value about ENABLE flag, but he didn`t know what is the value of ENABLE flag. So I do such tool to embedded the meaning into the value. For the usability, all the configs are create by .js file and the table content will create dynamically.
+For game director, he want to set a value about ENABLE flag, but he didn`t know what is the value of ENABLE flag. So I did such tool to embedded the meaning into the value. For the usability, all the configs are create by .js file and the table content will create dynamically.
 
 The server side php code is mapping to our private model class. Please re-write it before use them
 
